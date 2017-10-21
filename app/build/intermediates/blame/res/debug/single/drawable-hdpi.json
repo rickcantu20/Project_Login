@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/Users/ricardo.cantu/Desktop/Project_Login/app/build/intermediates/res/merged/debug/drawable-hdpi/hide.png",
+        "source": "/Users/ricardo.cantu/Desktop/Project_Login/app/src/main/res/drawable-hdpi/hide.png"
+    },
+    {
+        "merged": "/Users/ricardo.cantu/Desktop/Project_Login/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_launcher.png",
+        "source": "/Users/ricardo.cantu/Desktop/Project_Login/app/src/main/res/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/ricardo.cantu/Desktop/Project_Login/app/build/intermediates/res/merged/debug/drawable-hdpi/contact_pic.png",
+        "source": "/Users/ricardo.cantu/Desktop/Project_Login/app/src/main/res/drawable-hdpi/contact_pic.png"
+    },
+    {
+        "merged": "/Users/ricardo.cantu/Desktop/Project_Login/app/build/intermediates/res/merged/debug/drawable-hdpi/show.png",
+        "source": "/Users/ricardo.cantu/Desktop/Project_Login/app/src/main/res/drawable-hdpi/show.png"
+    },
+    {
+        "merged": "/Users/ricardo.cantu/Desktop/Project_Login/app/build/intermediates/res/merged/debug/drawable-hdpi/construct.png",
+        "source": "/Users/ricardo.cantu/Desktop/Project_Login/app/src/main/res/drawable-hdpi/construct.png"
+    }
+]

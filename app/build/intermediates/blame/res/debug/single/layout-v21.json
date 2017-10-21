@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/ricardo.cantu/Desktop/Project_Login/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/ricardo.cantu/.android/build-cache/36cef6be4ca4b52e3b9b98b445d780a5e0927677/output/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/ricardo.cantu/Desktop/Project_Login/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/ricardo.cantu/.android/build-cache/36cef6be4ca4b52e3b9b98b445d780a5e0927677/output/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/ricardo.cantu/Desktop/Project_Login/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/Users/ricardo.cantu/.android/build-cache/36cef6be4ca4b52e3b9b98b445d780a5e0927677/output/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/Users/ricardo.cantu/Desktop/Project_Login/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/ricardo.cantu/.android/build-cache/36cef6be4ca4b52e3b9b98b445d780a5e0927677/output/res/layout-v21/notification_template_icon_group.xml"
+    }
+]

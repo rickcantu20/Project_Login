@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/ricardo.cantu/Desktop/Project_Login/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi/welcome_img.png",
+        "source": "/Users/ricardo.cantu/Desktop/Project_Login/app/src/main/res/mipmap-xxxhdpi/welcome_img.png"
+    },
+    {
+        "merged": "/Users/ricardo.cantu/Desktop/Project_Login/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi/ic_launcher.png",
+        "source": "/Users/ricardo.cantu/Desktop/Project_Login/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/ricardo.cantu/Desktop/Project_Login/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi/face_launcher.png",
+        "source": "/Users/ricardo.cantu/Desktop/Project_Login/app/src/main/res/mipmap-xxxhdpi/face_launcher.png"
+    },
+    {
+        "merged": "/Users/ricardo.cantu/Desktop/Project_Login/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi/logo_main.png",
+        "source": "/Users/ricardo.cantu/Desktop/Project_Login/app/src/main/res/mipmap-xxxhdpi/logo_main.png"
+    }
+]
