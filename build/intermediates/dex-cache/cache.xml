@@ -3,11 +3,38 @@
 
     <item
         is-multidex="true"
+        jar="/Users/ricardo.cantu/.android/build-cache/d985adab1f0180c3a63238af9a21816436014f86/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="364364bf77b4a71afc5930fc3ae57b3f0eea637c">
+        <dex dex="/Users/ricardo.cantu/Desktop/Project_Login/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2afab1ec30a28e2d65b395cc6a05174c75d626d8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ricardo.cantu/.android/build-cache/ccacf37ad081003616fe438686f653d2da5b8e0f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="70ffe00aaf049893f59d1dad57bd82992faa38ef">
+        <dex dex="/Users/ricardo.cantu/Desktop/Project_Login/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ea95a11783852ac0f224d96ceac7342483b2f83d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ricardo.cantu/.android/build-cache/933eae4b207a90f18f5f9d4fabe5101f16a50d3e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2430e711762a749feb00b3d64858ca4768251b9d">
+        <dex dex="/Users/ricardo.cantu/Desktop/Project_Login/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_be28fb17c58936fcb14524480955727f3a25cfa0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="/Users/ricardo.cantu/Desktop/Project_Login/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
         jumboMode="true"
         optimize="true"
         revision="26.0.2"
-        sha1="ce3260c5be5875f44497087a944be8988ad7d36c">
+        sha1="3914f2fedf530ffb20a3ba821028925f73284806">
         <dex dex="/Users/ricardo.cantu/Desktop/Project_Login/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_32c48dff38ac5bb3f4b64e2af3dcb57f0c05ffa3/classes.dex" />
     </item>
     <item
@@ -18,6 +45,15 @@
         revision="26.0.2"
         sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
         <dex dex="/Users/ricardo.cantu/Desktop/Project_Login/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_2a54ac904621aae0fbd7711046f42b18b88e7d00/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ricardo.cantu/.android/build-cache/cd494658b95fb5e7cf1ed3c5b4b055e70fbbbae5/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="fcae52a60bc07924d370b4d376116cd8f8581f54">
+        <dex dex="/Users/ricardo.cantu/Desktop/Project_Login/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_26c70c1b439d938086155ad705e8349796d50c88/classes.dex" />
     </item>
 
 </items>

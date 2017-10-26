@@ -1,5 +1,7 @@
 package com.example.rendevu;
-
+/*
+    Josh Davenport
+ */
 import android.app.Activity;
 import android.os.Bundle;
 

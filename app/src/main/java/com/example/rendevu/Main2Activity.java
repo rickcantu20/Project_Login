@@ -123,6 +123,7 @@ public class Main2Activity extends AppCompatActivity {
 
     /**
      *  THIS IS THE FRAGMENT THAT CONTAINS THE VIEW FOR THE CONTACT TAB.
+     *  Ricardo Cantu
      */
     public static class ContactTabFragment extends Fragment {
 
@@ -170,6 +171,7 @@ public class Main2Activity extends AppCompatActivity {
 
     /**
      *  THIS IS THE FRAGMENT THAT CONTAINS THE VIEW FOR THE MAIN SCREEN TAB.
+     *  Tamim Alekozai
      */
     public static class MainScreenTabFragment extends Fragment{
 
@@ -192,6 +194,7 @@ public class Main2Activity extends AppCompatActivity {
 
     /**
      *  THIS IS THE FRAGMENT THAT CONTAINS THE VIEW FOR THE SETTINGS TAB.
+     *  Alexander Mann
      */
     public static class SettingsTabFragment extends Fragment{
 

@@ -12,6 +12,10 @@
         "source": "/Users/ricardo.cantu/Desktop/Project_Login/app/src/main/res/drawable-hdpi/contact_pic.png"
     },
     {
+        "merged": "/Users/ricardo.cantu/Desktop/Project_Login/app/build/intermediates/res/merged/debug/drawable-hdpi/maps_placeholder.png",
+        "source": "/Users/ricardo.cantu/Desktop/Project_Login/app/src/main/res/drawable-hdpi/maps_placeholder.png"
+    },
+    {
         "merged": "/Users/ricardo.cantu/Desktop/Project_Login/app/build/intermediates/res/merged/debug/drawable-hdpi/show.png",
         "source": "/Users/ricardo.cantu/Desktop/Project_Login/app/src/main/res/drawable-hdpi/show.png"
     },

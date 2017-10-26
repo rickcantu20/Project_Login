@@ -20,6 +20,10 @@
         "source": "/Users/ricardo.cantu/.android/build-cache/36cef6be4ca4b52e3b9b98b445d780a5e0927677/output/res/drawable-hdpi-v4/abc_switch_track_mtrl_alpha.9.png"
     },
     {
+        "merged": "/Users/ricardo.cantu/Desktop/Project_Login/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/common_google_signin_btn_icon_light_normal_background.9.png",
+        "source": "/Users/ricardo.cantu/.android/build-cache/ccacf37ad081003616fe438686f653d2da5b8e0f/output/res/drawable-hdpi-v4/common_google_signin_btn_icon_light_normal_background.9.png"
+    },
+    {
         "merged": "/Users/ricardo.cantu/Desktop/Project_Login/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/design_ic_visibility.png",
         "source": "/Users/ricardo.cantu/.android/build-cache/57a43a099b742119b08f25d9c378a7becf0cc259/output/res/drawable-hdpi-v4/design_ic_visibility.png"
     },
@@ -50,6 +54,10 @@
     {
         "merged": "/Users/ricardo.cantu/Desktop/Project_Login/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_tab_indicator_mtrl_alpha.9.png",
         "source": "/Users/ricardo.cantu/.android/build-cache/36cef6be4ca4b52e3b9b98b445d780a5e0927677/output/res/drawable-hdpi-v4/abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/ricardo.cantu/Desktop/Project_Login/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/common_full_open_on_phone.png",
+        "source": "/Users/ricardo.cantu/.android/build-cache/ccacf37ad081003616fe438686f653d2da5b8e0f/output/res/drawable-hdpi-v4/common_full_open_on_phone.png"
     },
     {
         "merged": "/Users/ricardo.cantu/Desktop/Project_Login/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png",
@@ -156,6 +164,10 @@
         "source": "/Users/ricardo.cantu/.android/build-cache/36cef6be4ca4b52e3b9b98b445d780a5e0927677/output/res/drawable-hdpi-v4/abc_textfield_search_default_mtrl_alpha.9.png"
     },
     {
+        "merged": "/Users/ricardo.cantu/Desktop/Project_Login/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/common_google_signin_btn_text_dark_normal_background.9.png",
+        "source": "/Users/ricardo.cantu/.android/build-cache/ccacf37ad081003616fe438686f653d2da5b8e0f/output/res/drawable-hdpi-v4/common_google_signin_btn_text_dark_normal_background.9.png"
+    },
+    {
         "merged": "/Users/ricardo.cantu/Desktop/Project_Login/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/notification_bg_normal_pressed.9.png",
         "source": "/Users/ricardo.cantu/.android/build-cache/36cef6be4ca4b52e3b9b98b445d780a5e0927677/output/res/drawable-hdpi-v4/notification_bg_normal_pressed.9.png"
     },
@@ -188,6 +200,10 @@
         "source": "/Users/ricardo.cantu/.android/build-cache/36cef6be4ca4b52e3b9b98b445d780a5e0927677/output/res/drawable-hdpi-v4/abc_textfield_default_mtrl_alpha.9.png"
     },
     {
+        "merged": "/Users/ricardo.cantu/Desktop/Project_Login/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/googleg_standard_color_18.png",
+        "source": "/Users/ricardo.cantu/.android/build-cache/ccacf37ad081003616fe438686f653d2da5b8e0f/output/res/drawable-hdpi-v4/googleg_standard_color_18.png"
+    },
+    {
         "merged": "/Users/ricardo.cantu/Desktop/Project_Login/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_scrubber_control_off_mtrl_alpha.png",
         "source": "/Users/ricardo.cantu/.android/build-cache/36cef6be4ca4b52e3b9b98b445d780a5e0927677/output/res/drawable-hdpi-v4/abc_scrubber_control_off_mtrl_alpha.png"
     },
@@ -206,6 +222,18 @@
     {
         "merged": "/Users/ricardo.cantu/Desktop/Project_Login/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/notification_bg_low_pressed.9.png",
         "source": "/Users/ricardo.cantu/.android/build-cache/36cef6be4ca4b52e3b9b98b445d780a5e0927677/output/res/drawable-hdpi-v4/notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "/Users/ricardo.cantu/Desktop/Project_Login/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/common_google_signin_btn_text_light_normal_background.9.png",
+        "source": "/Users/ricardo.cantu/.android/build-cache/ccacf37ad081003616fe438686f653d2da5b8e0f/output/res/drawable-hdpi-v4/common_google_signin_btn_text_light_normal_background.9.png"
+    },
+    {
+        "merged": "/Users/ricardo.cantu/Desktop/Project_Login/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/googleg_disabled_color_18.png",
+        "source": "/Users/ricardo.cantu/.android/build-cache/ccacf37ad081003616fe438686f653d2da5b8e0f/output/res/drawable-hdpi-v4/googleg_disabled_color_18.png"
+    },
+    {
+        "merged": "/Users/ricardo.cantu/Desktop/Project_Login/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/common_google_signin_btn_icon_dark_normal_background.9.png",
+        "source": "/Users/ricardo.cantu/.android/build-cache/ccacf37ad081003616fe438686f653d2da5b8e0f/output/res/drawable-hdpi-v4/common_google_signin_btn_icon_dark_normal_background.9.png"
     },
     {
         "merged": "/Users/ricardo.cantu/Desktop/Project_Login/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_list_longpressed_holo.9.png",

@@ -1,6 +1,6 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/ricardo.cantu/Desktop/Project_Login/app/src/main/AndroidManifest.xml:2:1-42:12
+ADDED from /Users/ricardo.cantu/Desktop/Project_Login/app/src/main/AndroidManifest.xml:2:1-40:12
 	package
 		ADDED from /Users/ricardo.cantu/Desktop/Project_Login/app/src/main/AndroidManifest.xml:3:5-34
 		INJECTED from /Users/ricardo.cantu/Desktop/Project_Login/app/src/main/AndroidManifest.xml
@@ -22,14 +22,19 @@ MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /Users/ricardo.cant
 MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /Users/ricardo.cantu/.android/build-cache/41ca04993cffe7d7167efafef5eff8377b217079/output/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /Users/ricardo.cantu/.android/build-cache/bc0991caac0a9083f33ea2df6d1824af4f6d75dc/output/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:transition:26.0.0-alpha1] /Users/ricardo.cantu/.android/build-cache/c67e3ad03212d578f83a9253ff9d4249c87dfd3d/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:26.0.0-alpha1] /Users/ricardo.cantu/.android/build-cache/5295586fbee1967c7232498d44a607c94c446ff2/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] /Users/ricardo.cantu/.android/build-cache/3381e6bb1de409606b6f8d6700e952f6acc1e0a4/output/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:11.0.4] /Users/ricardo.cantu/.android/build-cache/cd494658b95fb5e7cf1ed3c5b4b055e70fbbbae5/output/AndroidManifest.xml:23:5-43
+MERGED from [com.google.android.gms:play-services-base:11.0.4] /Users/ricardo.cantu/.android/build-cache/ccacf37ad081003616fe438686f653d2da5b8e0f/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tasks:11.0.4] /Users/ricardo.cantu/.android/build-cache/933eae4b207a90f18f5f9d4fabe5101f16a50d3e/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-basement:11.0.4] /Users/ricardo.cantu/.android/build-cache/d985adab1f0180c3a63238af9a21816436014f86/output/AndroidManifest.xml:17:5-43
 MERGED from [com.android.support:support-v4:26.0.0-alpha1] /Users/ricardo.cantu/.android/build-cache/9223e4f4ab2e421fae519b398c3a0132f7064f05/output/AndroidManifest.xml:21:5-23:54
 MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /Users/ricardo.cantu/.android/build-cache/b53bf5532e29261ff5413fcf2ddd0dd7a138c5ef/output/AndroidManifest.xml:21:5-23:63
 MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /Users/ricardo.cantu/.android/build-cache/0440d125e36e7818b67e53932ad33909a9d65dcc/output/AndroidManifest.xml:21:5-23:60
-MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /Users/ricardo.cantu/.android/build-cache/33756f9518c3a3087265eae1fedd75d350b6bd58/output/AndroidManifest.xml:21:5-23:61
-MERGED from [com.android.support:cardview-v7:26.0.0-alpha1] /Users/ricardo.cantu/.android/build-cache/5295586fbee1967c7232498d44a607c94c446ff2/output/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] /Users/ricardo.cantu/.android/build-cache/3381e6bb1de409606b6f8d6700e952f6acc1e0a4/output/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /Users/ricardo.cantu/.android/build-cache/3698a9414143026ae8ab45f10e5bb612399701fd/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /Users/ricardo.cantu/.android/build-cache/33756f9518c3a3087265eae1fedd75d350b6bd58/output/AndroidManifest.xml:21:5-23:61
 MERGED from [com.android.support:support-compat:26.0.0-alpha1] /Users/ricardo.cantu/.android/build-cache/1c32a060b7eb7ad460e1ac8cc812eec0067c4c82/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/ricardo.cantu/.android/build-cache/d38ec3a6eb58af6b5b5f4732ba43dd614285a458/output/AndroidManifest.xml:5:5-7:41
 	tools:overrideLibrary
 		ADDED from [com.android.support:design:26.0.0-alpha1] /Users/ricardo.cantu/.android/build-cache/57a43a099b742119b08f25d9c378a7becf0cc259/output/AndroidManifest.xml:23:9-59
 	android:targetSdkVersion
@@ -53,19 +58,24 @@ ADDED from /Users/ricardo.cantu/Desktop/Project_Login/app/src/main/AndroidManife
 	android:name
 		ADDED from /Users/ricardo.cantu/Desktop/Project_Login/app/src/main/AndroidManifest.xml:13:22-77
 application
-ADDED from /Users/ricardo.cantu/Desktop/Project_Login/app/src/main/AndroidManifest.xml:15:5-40:19
+ADDED from /Users/ricardo.cantu/Desktop/Project_Login/app/src/main/AndroidManifest.xml:15:5-38:19
 MERGED from [com.android.support:design:26.0.0-alpha1] /Users/ricardo.cantu/.android/build-cache/57a43a099b742119b08f25d9c378a7becf0cc259/output/AndroidManifest.xml:29:5-20
 MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /Users/ricardo.cantu/.android/build-cache/36cef6be4ca4b52e3b9b98b445d780a5e0927677/output/AndroidManifest.xml:29:5-20
 MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /Users/ricardo.cantu/.android/build-cache/41ca04993cffe7d7167efafef5eff8377b217079/output/AndroidManifest.xml:26:5-20
 MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /Users/ricardo.cantu/.android/build-cache/bc0991caac0a9083f33ea2df6d1824af4f6d75dc/output/AndroidManifest.xml:26:5-20
 MERGED from [com.android.support:transition:26.0.0-alpha1] /Users/ricardo.cantu/.android/build-cache/c67e3ad03212d578f83a9253ff9d4249c87dfd3d/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:cardview-v7:26.0.0-alpha1] /Users/ricardo.cantu/.android/build-cache/5295586fbee1967c7232498d44a607c94c446ff2/output/AndroidManifest.xml:26:5-20
+MERGED from [com.google.android.gms:play-services-maps:11.0.4] /Users/ricardo.cantu/.android/build-cache/cd494658b95fb5e7cf1ed3c5b4b055e70fbbbae5/output/AndroidManifest.xml:24:5-19
+MERGED from [com.google.android.gms:play-services-base:11.0.4] /Users/ricardo.cantu/.android/build-cache/ccacf37ad081003616fe438686f653d2da5b8e0f/output/AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-tasks:11.0.4] /Users/ricardo.cantu/.android/build-cache/933eae4b207a90f18f5f9d4fabe5101f16a50d3e/output/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:11.0.4] /Users/ricardo.cantu/.android/build-cache/d985adab1f0180c3a63238af9a21816436014f86/output/AndroidManifest.xml:19:5-21:19
 MERGED from [com.android.support:support-v4:26.0.0-alpha1] /Users/ricardo.cantu/.android/build-cache/9223e4f4ab2e421fae519b398c3a0132f7064f05/output/AndroidManifest.xml:29:5-20
 MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /Users/ricardo.cantu/.android/build-cache/b53bf5532e29261ff5413fcf2ddd0dd7a138c5ef/output/AndroidManifest.xml:29:5-20
 MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /Users/ricardo.cantu/.android/build-cache/0440d125e36e7818b67e53932ad33909a9d65dcc/output/AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /Users/ricardo.cantu/.android/build-cache/33756f9518c3a3087265eae1fedd75d350b6bd58/output/AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:cardview-v7:26.0.0-alpha1] /Users/ricardo.cantu/.android/build-cache/5295586fbee1967c7232498d44a607c94c446ff2/output/AndroidManifest.xml:26:5-20
 MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /Users/ricardo.cantu/.android/build-cache/3698a9414143026ae8ab45f10e5bb612399701fd/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /Users/ricardo.cantu/.android/build-cache/33756f9518c3a3087265eae1fedd75d350b6bd58/output/AndroidManifest.xml:29:5-20
 MERGED from [com.android.support:support-compat:26.0.0-alpha1] /Users/ricardo.cantu/.android/build-cache/1c32a060b7eb7ad460e1ac8cc812eec0067c4c82/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/ricardo.cantu/.android/build-cache/d38ec3a6eb58af6b5b5f4732ba43dd614285a458/output/AndroidManifest.xml:9:5-20
 	android:label
 		ADDED from /Users/ricardo.cantu/Desktop/Project_Login/app/src/main/AndroidManifest.xml:17:9-32
 	android:supportsRtl
@@ -75,33 +85,33 @@ MERGED from [com.android.support:support-compat:26.0.0-alpha1] /Users/ricardo.ca
 	android:theme
 		ADDED from /Users/ricardo.cantu/Desktop/Project_Login/app/src/main/AndroidManifest.xml:19:9-40
 activity#com.example.rendevu.MainActivity
-ADDED from /Users/ricardo.cantu/Desktop/Project_Login/app/src/main/AndroidManifest.xml:20:9-25:20
+ADDED from /Users/ricardo.cantu/Desktop/Project_Login/app/src/main/AndroidManifest.xml:20:9-26:20
 	android:name
 		ADDED from /Users/ricardo.cantu/Desktop/Project_Login/app/src/main/AndroidManifest.xml:20:19-47
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from /Users/ricardo.cantu/Desktop/Project_Login/app/src/main/AndroidManifest.xml:21:13-24:29
+ADDED from /Users/ricardo.cantu/Desktop/Project_Login/app/src/main/AndroidManifest.xml:21:13-25:29
 action#android.intent.action.MAIN
 ADDED from /Users/ricardo.cantu/Desktop/Project_Login/app/src/main/AndroidManifest.xml:22:17-69
 	android:name
 		ADDED from /Users/ricardo.cantu/Desktop/Project_Login/app/src/main/AndroidManifest.xml:22:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /Users/ricardo.cantu/Desktop/Project_Login/app/src/main/AndroidManifest.xml:23:17-77
+ADDED from /Users/ricardo.cantu/Desktop/Project_Login/app/src/main/AndroidManifest.xml:24:17-77
 	android:name
-		ADDED from /Users/ricardo.cantu/Desktop/Project_Login/app/src/main/AndroidManifest.xml:23:27-74
+		ADDED from /Users/ricardo.cantu/Desktop/Project_Login/app/src/main/AndroidManifest.xml:24:27-74
 activity#com.example.rendevu.Login
-ADDED from /Users/ricardo.cantu/Desktop/Project_Login/app/src/main/AndroidManifest.xml:26:9-43
+ADDED from /Users/ricardo.cantu/Desktop/Project_Login/app/src/main/AndroidManifest.xml:27:9-43
 	android:name
-		ADDED from /Users/ricardo.cantu/Desktop/Project_Login/app/src/main/AndroidManifest.xml:26:19-40
+		ADDED from /Users/ricardo.cantu/Desktop/Project_Login/app/src/main/AndroidManifest.xml:27:19-40
 activity#com.example.rendevu.Register
-ADDED from /Users/ricardo.cantu/Desktop/Project_Login/app/src/main/AndroidManifest.xml:28:9-46
+ADDED from /Users/ricardo.cantu/Desktop/Project_Login/app/src/main/AndroidManifest.xml:29:9-46
 	android:name
-		ADDED from /Users/ricardo.cantu/Desktop/Project_Login/app/src/main/AndroidManifest.xml:28:19-43
+		ADDED from /Users/ricardo.cantu/Desktop/Project_Login/app/src/main/AndroidManifest.xml:29:19-43
 activity#com.example.rendevu.Welcome
-ADDED from /Users/ricardo.cantu/Desktop/Project_Login/app/src/main/AndroidManifest.xml:30:9-45
+ADDED from /Users/ricardo.cantu/Desktop/Project_Login/app/src/main/AndroidManifest.xml:31:9-45
 	android:name
-		ADDED from /Users/ricardo.cantu/Desktop/Project_Login/app/src/main/AndroidManifest.xml:30:19-42
+		ADDED from /Users/ricardo.cantu/Desktop/Project_Login/app/src/main/AndroidManifest.xml:31:19-42
 activity#com.example.rendevu.Main2Activity
-ADDED from /Users/ricardo.cantu/Desktop/Project_Login/app/src/main/AndroidManifest.xml:33:9-39:20
+ADDED from /Users/ricardo.cantu/Desktop/Project_Login/app/src/main/AndroidManifest.xml:34:9-37:68
 	android:label
 		ADDED from /Users/ricardo.cantu/Desktop/Project_Login/app/src/main/AndroidManifest.xml:36:13-57
 	android:theme
@@ -114,15 +124,43 @@ MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /Users/ricardo.cant
 MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /Users/ricardo.cantu/.android/build-cache/41ca04993cffe7d7167efafef5eff8377b217079/output/AndroidManifest.xml:22:5-24:41
 MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /Users/ricardo.cantu/.android/build-cache/bc0991caac0a9083f33ea2df6d1824af4f6d75dc/output/AndroidManifest.xml:22:5-24:41
 MERGED from [com.android.support:transition:26.0.0-alpha1] /Users/ricardo.cantu/.android/build-cache/c67e3ad03212d578f83a9253ff9d4249c87dfd3d/output/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:cardview-v7:26.0.0-alpha1] /Users/ricardo.cantu/.android/build-cache/5295586fbee1967c7232498d44a607c94c446ff2/output/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] /Users/ricardo.cantu/.android/build-cache/3381e6bb1de409606b6f8d6700e952f6acc1e0a4/output/AndroidManifest.xml:22:5-24:41
 MERGED from [com.android.support:support-v4:26.0.0-alpha1] /Users/ricardo.cantu/.android/build-cache/9223e4f4ab2e421fae519b398c3a0132f7064f05/output/AndroidManifest.xml:25:5-27:41
 MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /Users/ricardo.cantu/.android/build-cache/b53bf5532e29261ff5413fcf2ddd0dd7a138c5ef/output/AndroidManifest.xml:25:5-27:41
 MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /Users/ricardo.cantu/.android/build-cache/0440d125e36e7818b67e53932ad33909a9d65dcc/output/AndroidManifest.xml:25:5-27:41
-MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /Users/ricardo.cantu/.android/build-cache/33756f9518c3a3087265eae1fedd75d350b6bd58/output/AndroidManifest.xml:25:5-27:41
-MERGED from [com.android.support:cardview-v7:26.0.0-alpha1] /Users/ricardo.cantu/.android/build-cache/5295586fbee1967c7232498d44a607c94c446ff2/output/AndroidManifest.xml:22:5-24:41
-MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] /Users/ricardo.cantu/.android/build-cache/3381e6bb1de409606b6f8d6700e952f6acc1e0a4/output/AndroidManifest.xml:22:5-24:41
 MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /Users/ricardo.cantu/.android/build-cache/3698a9414143026ae8ab45f10e5bb612399701fd/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /Users/ricardo.cantu/.android/build-cache/33756f9518c3a3087265eae1fedd75d350b6bd58/output/AndroidManifest.xml:25:5-27:41
 MERGED from [com.android.support:support-compat:26.0.0-alpha1] /Users/ricardo.cantu/.android/build-cache/1c32a060b7eb7ad460e1ac8cc812eec0067c4c82/output/AndroidManifest.xml:25:5-27:41
 	android:value
 		ADDED from [com.android.support:design:26.0.0-alpha1] /Users/ricardo.cantu/.android/build-cache/57a43a099b742119b08f25d9c378a7becf0cc259/output/AndroidManifest.xml:27:9-38
 	android:name
 		ADDED from [com.android.support:design:26.0.0-alpha1] /Users/ricardo.cantu/.android/build-cache/57a43a099b742119b08f25d9c378a7becf0cc259/output/AndroidManifest.xml:26:9-47
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.android.gms:play-services-maps:11.0.4] /Users/ricardo.cantu/.android/build-cache/cd494658b95fb5e7cf1ed3c5b4b055e70fbbbae5/output/AndroidManifest.xml:19:5-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:11.0.4] /Users/ricardo.cantu/.android/build-cache/cd494658b95fb5e7cf1ed3c5b4b055e70fbbbae5/output/AndroidManifest.xml:19:22-76
+uses-permission#android.permission.INTERNET
+ADDED from [com.google.android.gms:play-services-maps:11.0.4] /Users/ricardo.cantu/.android/build-cache/cd494658b95fb5e7cf1ed3c5b4b055e70fbbbae5/output/AndroidManifest.xml:20:5-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:11.0.4] /Users/ricardo.cantu/.android/build-cache/cd494658b95fb5e7cf1ed3c5b4b055e70fbbbae5/output/AndroidManifest.xml:20:22-64
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:11.0.4] /Users/ricardo.cantu/.android/build-cache/cd494658b95fb5e7cf1ed3c5b4b055e70fbbbae5/output/AndroidManifest.xml:21:5-77
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:11.0.4] /Users/ricardo.cantu/.android/build-cache/cd494658b95fb5e7cf1ed3c5b4b055e70fbbbae5/output/AndroidManifest.xml:21:19-51
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:11.0.4] /Users/ricardo.cantu/.android/build-cache/cd494658b95fb5e7cf1ed3c5b4b055e70fbbbae5/output/AndroidManifest.xml:21:52-75
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:11.0.4] /Users/ricardo.cantu/.android/build-cache/ccacf37ad081003616fe438686f653d2da5b8e0f/output/AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:11.0.4] /Users/ricardo.cantu/.android/build-cache/ccacf37ad081003616fe438686f653d2da5b8e0f/output/AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:11.0.4] /Users/ricardo.cantu/.android/build-cache/ccacf37ad081003616fe438686f653d2da5b8e0f/output/AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:11.0.4] /Users/ricardo.cantu/.android/build-cache/ccacf37ad081003616fe438686f653d2da5b8e0f/output/AndroidManifest.xml:19:19-85
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:11.0.4] /Users/ricardo.cantu/.android/build-cache/d985adab1f0180c3a63238af9a21816436014f86/output/AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:11.0.4] /Users/ricardo.cantu/.android/build-cache/d985adab1f0180c3a63238af9a21816436014f86/output/AndroidManifest.xml:20:66-119
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:11.0.4] /Users/ricardo.cantu/.android/build-cache/d985adab1f0180c3a63238af9a21816436014f86/output/AndroidManifest.xml:20:20-65

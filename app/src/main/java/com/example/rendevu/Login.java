@@ -1,5 +1,7 @@
 package com.example.rendevu;
-
+/*
+    Josh Davenport
+ */
 import android.app.Activity;
 import android.content.Intent;
 import android.database.Cursor;
