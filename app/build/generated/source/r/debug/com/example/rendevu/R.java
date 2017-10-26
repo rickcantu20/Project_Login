@@ -3569,6 +3569,15 @@ containing a value of this type.
         public static final int show=0x7f020083;
     }
     public static final class id {
+        public static final int DisplayName=0x7f0e00cd;
+        public static final int FAQButton=0x7f0e00d3;
+        public static final int LogOutButton=0x7f0e00d4;
+        public static final int ManageAccountButton=0x7f0e00ce;
+        public static final int PrivacyPolicyButton=0x7f0e00d1;
+        public static final int ProfilePicture=0x7f0e00cc;
+        public static final int SoundNotificationButton=0x7f0e00d0;
+        public static final int UserAgreeButton=0x7f0e00d2;
+        public static final int VibrateButton=0x7f0e00cf;
         public static final int action0=0x7f0e00b2;
         public static final int action_bar=0x7f0e0076;
         public static final int action_bar_activity_content=0x7f0e0000;
@@ -3586,7 +3595,7 @@ containing a value of this type.
         public static final int action_mode_bar=0x7f0e0073;
         public static final int action_mode_bar_stub=0x7f0e0072;
         public static final int action_mode_close_button=0x7f0e0055;
-        public static final int action_settings=0x7f0e00de;
+        public static final int action_settings=0x7f0e00d9;
         public static final int action_text=0x7f0e00b1;
         public static final int actions=0x7f0e00be;
         public static final int activity_chooser_view_content=0x7f0e0056;
@@ -3601,10 +3610,6 @@ containing a value of this type.
         public static final int basic=0x7f0e0016;
         public static final int beginning=0x7f0e0040;
         public static final int bottom=0x7f0e002f;
-        public static final int button4=0x7f0e00cc;
-        public static final int button5=0x7f0e00d7;
-        public static final int button6=0x7f0e00d8;
-        public static final int button7=0x7f0e00d9;
         public static final int buttonPanel=0x7f0e005d;
         public static final int cancel_action=0x7f0e00b3;
         public static final int card_view=0x7f0e008c;
@@ -3669,7 +3674,7 @@ containing a value of this type.
         public static final int list_item=0x7f0e005a;
         public static final int log_in=0x7f0e0086;
         public static final int login=0x7f0e00cb;
-        public static final int masked=0x7f0e00dd;
+        public static final int masked=0x7f0e00d8;
         public static final int media_actions=0x7f0e00b5;
         public static final int middle=0x7f0e0041;
         public static final int mini=0x7f0e003f;
@@ -3745,12 +3750,6 @@ containing a value of this type.
         public static final int status_bar_latest_event_content=0x7f0e00b4;
         public static final int submenuarrow=0x7f0e0070;
         public static final int submit_area=0x7f0e0081;
-        public static final int switch1=0x7f0e00cf;
-        public static final int switch2=0x7f0e00d0;
-        public static final int switch4=0x7f0e00d2;
-        public static final int switch5=0x7f0e00d3;
-        public static final int switch6=0x7f0e00d4;
-        public static final int switch7=0x7f0e00d5;
         public static final int tabMode=0x7f0e001b;
         public static final int tabs=0x7f0e008a;
         public static final int terrain=0x7f0e0046;
@@ -3758,10 +3757,6 @@ containing a value of this type.
         public static final int text2=0x7f0e00c2;
         public static final int textSpacerNoButtons=0x7f0e0064;
         public static final int textSpacerNoTitle=0x7f0e0063;
-        public static final int textView12=0x7f0e00cd;
-        public static final int textView13=0x7f0e00ce;
-        public static final int textView15=0x7f0e00d1;
-        public static final int textView16=0x7f0e00d6;
         public static final int textView3=0x7f0e00a6;
         public static final int textView4=0x7f0e00a9;
         public static final int textView5=0x7f0e00ac;
@@ -3785,9 +3780,9 @@ containing a value of this type.
         public static final int up=0x7f0e000e;
         public static final int useLogo=0x7f0e0021;
         public static final int view_offset_helper=0x7f0e000f;
-        public static final int visible=0x7f0e00dc;
-        public static final int w_image=0x7f0e00da;
-        public static final int w_welcome=0x7f0e00db;
+        public static final int visible=0x7f0e00d7;
+        public static final int w_image=0x7f0e00d5;
+        public static final int w_welcome=0x7f0e00d6;
         public static final int wide=0x7f0e004e;
         public static final int withText=0x7f0e004b;
         public static final int wrap=0x7f0e0012;

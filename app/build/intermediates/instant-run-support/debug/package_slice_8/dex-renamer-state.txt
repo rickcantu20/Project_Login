@@ -1,4 +1,4 @@
-#Thu Oct 26 14:24:21 CDT 2017
+#Thu Oct 26 15:36:50 CDT 2017
 base.0=/Users/ricardo.cantu/Desktop/Project_Login/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_8
 renamed.0=classes.dex
 file.0=/Users/ricardo.cantu/Desktop/Project_Login/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_8/classes.dex

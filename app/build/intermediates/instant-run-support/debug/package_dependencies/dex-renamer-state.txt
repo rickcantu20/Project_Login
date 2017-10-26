@@ -1,4 +1,4 @@
-#Thu Oct 26 14:24:21 CDT 2017
+#Thu Oct 26 15:36:50 CDT 2017
 file.2=/Users/ricardo.cantu/Desktop/Project_Login/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.2_062566f41928cb7b01f996aef0f27e89936b73e6/classes.dex
 base.2=/Users/ricardo.cantu/Desktop/Project_Login/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.2_062566f41928cb7b01f996aef0f27e89936b73e6
 file.1=/Users/ricardo.cantu/Desktop/Project_Login/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ff0644790cf3f0f115e6f2a09e1c7a02173aa08c/classes.dex

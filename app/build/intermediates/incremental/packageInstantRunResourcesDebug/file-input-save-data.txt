@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Thu Oct 26 14:24:18 CDT 2017
+#Thu Oct 26 15:36:46 CDT 2017
 210.set=ANDROID_RESOURCE
 282.file=/Users/ricardo.cantu/Desktop/Project_Login/app/build/intermediates/res/resources-debug.ap_/res/layout/abc_action_bar_title_item.xml
 14.set=ANDROID_RESOURCE
