@@ -1,0 +1,7 @@
+#Thu Oct 26 14:24:21 CDT 2017
+base.0=/Users/ricardo.cantu/Desktop/Project_Login/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_2a54ac904621aae0fbd7711046f42b18b88e7d00
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/ricardo.cantu/Desktop/Project_Login/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_32c48dff38ac5bb3f4b64e2af3dcb57f0c05ffa3/classes.dex
+base.1=/Users/ricardo.cantu/Desktop/Project_Login/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_32c48dff38ac5bb3f4b64e2af3dcb57f0c05ffa3
+file.0=/Users/ricardo.cantu/Desktop/Project_Login/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_2a54ac904621aae0fbd7711046f42b18b88e7d00/classes.dex
